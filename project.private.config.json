@@ -1,0 +1,82 @@
+{
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": false
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "我的信息",
+          "pathName": "pages/mine/info/info",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "报修申报",
+          "pathName": "pages/publish/publish",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "申报详情",
+          "pathName": "pages/detail/detail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "管理申报",
+          "pathName": "pages/admin/admin",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "管理员审核",
+          "pathName": "pages/admin/admin",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "个人中心",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "关于我们",
+          "pathName": "pages/mine/about/about",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "资讯",
+          "pathName": "pages/news/news",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "申请管理员",
+          "pathName": "pages/mine/applyAdmin/applyAdmin",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "我的信息",
+          "pathName": "pages/mine/info/info",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "description": "",
+  "projectname": "bx_01",
+  "libVersion": "2.25.2"
+}
